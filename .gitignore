@@ -1,0 +1,12 @@
+/playground.py
+/ssh_project_delivery/
+/HSESchedulerData/
+/.idea/
+/__pycache__/
+/.DS_Store
+/backend/.DS_Store
+/backend/__pycache__/
+/templates/.DS_Store
+/templates/__pycache__/
+/Service_CreatedBy_SSH_ProjectDelivery.service
+/ssh_project_delivery.py
